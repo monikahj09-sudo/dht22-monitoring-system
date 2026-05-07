@@ -13,7 +13,7 @@ This project uses an ESP32 microcontroller with a DHT22 sensor to monitor real-t
 - Jumper Wires
 - USB Cable
 - Arduino IDE
-- Blynk app
+
 
 ---
 
@@ -33,8 +33,7 @@ This project uses an ESP32 microcontroller with a DHT22 sensor to monitor real-t
 - Serial Monitor display
 - Low-cost IoT implementation
 - Easy ESP32 integration
-- Add WiFi monitoring using Blynk Iot
-- Mobile notification alerts
+
 
 ---
 
